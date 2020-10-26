@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T07:00:00.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="sc0eQRQSwi95iUWoBIYD" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T07:03:19.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="GmxSCY9mbQCff-G4lLiU" version="13.8.2" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="2522" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="940" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-2" value="提取产品配置规则节点（113）" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-3" value="是否在白名单（106）" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1490" y="160" width="120" height="60" as="geometry" />
@@ -43,10 +43,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-13" value="115" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="-40" y="250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-14" value="199" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="170" y="280" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-16" value="207" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="610" y="320" width="40" height="40" as="geometry" />
@@ -72,13 +72,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-23" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry y="290" width="50" height="20" as="geometry" />
+          <mxGeometry x="-70" y="230" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-24" value="200" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="385" width="40" height="40" as="geometry" />
+          <mxGeometry x="-25" y="380" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-25" value="201" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="340" y="375" width="40" height="40" as="geometry" />
+          <mxGeometry x="240" y="385" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-26" value="投保人=被保人" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-24" target="k_FtLC-OP6g6ujeGB-re-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -87,20 +87,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-27" value="投保人！=被保人" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-25" target="k_FtLC-OP6g6ujeGB-re-14">
-          <mxGeometry x="-0.3846" y="-24" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.377" y="7" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="450" as="sourcePoint" />
             <mxPoint x="310" y="350" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-28" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="385" width="50" height="20" as="geometry" />
+          <mxGeometry x="-60" y="360" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-29" value="315" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="490" width="40" height="40" as="geometry" />
+          <mxGeometry x="55" y="470" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-30" value="114" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="390" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="310" y="490" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-31" value="未成年" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-29" target="k_FtLC-OP6g6ujeGB-re-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,7 +124,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-37" value="317" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="140" y="570" width="40" height="40" as="geometry" />
+          <mxGeometry x="100" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-38" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="540" width="50" height="20" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry x="40" y="730" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="740" width="40" height="40" as="geometry" />
+          <mxGeometry x="240" y="740" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-51" value="保费大于200元" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-50" target="k_FtLC-OP6g6ujeGB-re-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -184,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-53" value="117" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="240" y="570" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-56" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-53" target="k_FtLC-OP6g6ujeGB-re-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -193,10 +193,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-57" value="被保人确认身故&lt;br&gt;pic4dieandconfirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="530" width="110" height="30" as="geometry" />
+          <mxGeometry x="150" y="550" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-58" value="118" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="370" y="565" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-59" value="身份证" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-58" target="k_FtLC-OP6g6ujeGB-re-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -205,7 +205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-60" value="119" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="640" width="40" height="40" as="geometry" />
+          <mxGeometry x="270" y="670" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-61" value="二要素不通过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-60" target="k_FtLC-OP6g6ujeGB-re-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -214,7 +214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-62" value="120" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="510" y="640" width="40" height="40" as="geometry" />
+          <mxGeometry x="450" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-63" value="二要素通过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-62" target="k_FtLC-OP6g6ujeGB-re-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -223,10 +223,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-64" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="635" width="40" height="30" as="geometry" />
+          <mxGeometry x="260" y="635" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-65" value="livecheck4dieandconfirm" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="680" width="160" height="30" as="geometry" />
+          <mxGeometry x="320" y="675" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-67" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;livecheck4dieandconfirm:&amp;nbsp;&amp;nbsp;身故活体检测且确认身故责任&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;div style=&quot;resize: none; outline: 0px; font-size: 14px; color: rgb(50, 50, 50); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;livecheck4undie: 非身故活体检测&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;div style=&quot;resize: none; outline: 0px; font-size: 14px; color: rgb(50, 50, 50); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;codecheck4dieandconfirm: 身故短信验证码验证且确认身故责任&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;div style=&quot;resize: none; outline: 0px; font-size: 14px; color: rgb(50, 50, 50); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;pic4undie: 非身故补充图片&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;div style=&quot;resize: none; outline: 0px; font-size: 14px; color: rgb(50, 50, 50); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;pic4die: 身故补充图片&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;pic4dieandconfirm:身故补充图片且身故确认&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-240" width="420" height="110" as="geometry" />
@@ -268,6 +268,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="480" as="sourcePoint" />
             <mxPoint x="630" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-77" value="211" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="525" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-78" value="212" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="525" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-80" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-77" target="k_FtLC-OP6g6ujeGB-re-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="580" as="sourcePoint" />
+            <mxPoint x="630" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-81" value="身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-78" target="k_FtLC-OP6g6ujeGB-re-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="580" as="sourcePoint" />
+            <mxPoint x="630" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
