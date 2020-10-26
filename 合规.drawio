@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T04:17:50.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="G7foTDh0jFCEZnbgUmIA" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T06:36:25.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="ToB1CIqox_7Y_jW0hd3D" version="13.8.2" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="1422" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -152,6 +152,45 @@
             <mxPoint x="520" y="450" as="sourcePoint" />
             <mxPoint x="570" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-40" value="318" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-41" value="319" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-42" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-40" target="k_FtLC-OP6g6ujeGB-re-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-43" value="保障小于7天" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k_FtLC-OP6g6ujeGB-re-42">
+          <mxGeometry x="0.2891" y="-4" relative="1" as="geometry">
+            <mxPoint x="-28.35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-44" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="640" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-45" value="保障时间大于等于7天" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-41" target="k_FtLC-OP6g6ujeGB-re-37">
+          <mxGeometry x="-0.2661" y="-12" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-46" value="320" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="710" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-47" value="保费少于200元" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-46" target="k_FtLC-OP6g6ujeGB-re-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-48" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
