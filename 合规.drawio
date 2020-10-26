@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T08:40:06.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="znz2JnNPktB5HgmLISZE" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T08:44:55.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="dUpK8TnVL4R7klz-n3CR" version="13.8.2" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="2522" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -624,6 +624,48 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1260" y="680" as="sourcePoint" />
             <mxPoint x="1310" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-191" value="332" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-192" value="331" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-193" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-191" target="k_FtLC-OP6g6ujeGB-re-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550" y="560" as="sourcePoint" />
+            <mxPoint x="1600" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-194" value="身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-192" target="k_FtLC-OP6g6ujeGB-re-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550" y="560" as="sourcePoint" />
+            <mxPoint x="1600" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-195" value="pic4die" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="665" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-196" value="333" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="750" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-197" value="342" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="750" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-198" value="二要素过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-196" target="k_FtLC-OP6g6ujeGB-re-192">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="580" as="sourcePoint" />
+            <mxPoint x="1450" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-199" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="760" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-200" value="二要素不过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-197" target="k_FtLC-OP6g6ujeGB-re-192">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="580" as="sourcePoint" />
+            <mxPoint x="1450" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
