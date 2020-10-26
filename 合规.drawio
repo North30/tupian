@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T06:37:24.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="-67zKSPoeII2gY1Ma2-o" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T06:41:41.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="YGqi3tQtoRjqwtn5l2SV" version="13.8.2" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="1422" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="62893188c0fa7362-1" value="产品是否含身故（112）" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="600" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-2" value="提取产品配置规则节点（113）" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-3" value="是否在白名单（106）" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="780" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1490" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-4" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-3" edge="1">
           <mxGeometry x="-0.3002" y="13" relative="1" as="geometry">
@@ -23,35 +23,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="62893188c0fa7362-10" value="&lt;span&gt;Action&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="690" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="62893188c0fa7362-11" value="&lt;span&gt;Action&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="880" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="62893188c0fa7362-14" value="不上策略" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.333;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="62893188c0fa7362-2" target="k_FtLC-OP6g6ujeGB-re-13" edge="1">
           <mxGeometry x="-0.2" y="-14" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="170" y="309.47368421052624" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="62893188c0fa7362-16" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-3" target="62893188c0fa7362-10" edge="1">
-          <mxGeometry x="-0.2614" y="-13" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="62893188c0fa7362-17" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-3" target="62893188c0fa7362-11" edge="1">
-          <mxGeometry x="-0.1294" y="17" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-1" target="62893188c0fa7362-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-1" value="root(105)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-140" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="62893188c0fa7362-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="-60" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="940" y="-210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-12" value="二要素+活体" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-14" target="62893188c0fa7362-2">
           <mxGeometry x="0.2111" y="2" width="50" height="50" relative="1" as="geometry">
@@ -61,13 +43,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-13" value="115" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="320" width="40" height="40" as="geometry" />
+          <mxGeometry x="40" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-14" value="199" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="230" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="280" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-16" value="207" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="610" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-17" value="" style="endArrow=none;html=1;entryX=0.442;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-16" target="62893188c0fa7362-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -81,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-19" value="327" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="570" y="320" width="40" height="40" as="geometry" />
+          <mxGeometry x="910" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-22" value="三要素v2版本" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-19" target="62893188c0fa7362-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -90,13 +72,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-23" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="330" width="50" height="20" as="geometry" />
+          <mxGeometry y="290" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-24" value="200" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="385" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-25" value="201" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="330" y="390" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-26" value="投保人=被保人" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-24" target="k_FtLC-OP6g6ujeGB-re-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -118,7 +100,7 @@
           <mxGeometry x="100" y="490" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-30" value="114" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="490" width="40" height="40" as="geometry" />
+          <mxGeometry x="390" y="490" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-31" value="未成年" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-29" target="k_FtLC-OP6g6ujeGB-re-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -199,6 +181,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="450" as="sourcePoint" />
             <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-53" value="114" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-56" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-53" target="k_FtLC-OP6g6ujeGB-re-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="480" as="sourcePoint" />
+            <mxPoint x="470" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
