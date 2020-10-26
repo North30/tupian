@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T09:33:17.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="z_7ZpefCpGDGxj8TEl-m" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T11:27:34.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="NmLqRa_f0LR9R89f75vB" version="13.8.2" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="1879" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-3" value="是否在白名单（106）" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2740" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="2530" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-4" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-3" edge="1">
           <mxGeometry x="-0.3002" y="13" relative="1" as="geometry">
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-19" value="327" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="230" width="40" height="40" as="geometry" />
+          <mxGeometry x="1275" y="230" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-22" value="三要素v2版本" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-19" target="62893188c0fa7362-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -252,8 +252,8 @@
             <mxPoint x="643.1421356237306" y="354.1421356237306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-73" value="210" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="40" height="40" as="geometry" />
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-73" value="309" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-74" value="未成年" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-73" target="k_FtLC-OP6g6ujeGB-re-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -262,7 +262,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-75" value="116" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="710" y="390" width="40" height="40" as="geometry" />
+          <mxGeometry x="950" y="390" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-76" value="成人" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-75" target="k_FtLC-OP6g6ujeGB-re-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -270,50 +270,26 @@
             <mxPoint x="630" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-77" value="211" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-77" value="310" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="490" y="470" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-78" value="212" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-78" value="311" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="580" y="475" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-80" value="身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-77" target="k_FtLC-OP6g6ujeGB-re-73">
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-80" value="白名单" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-77" target="k_FtLC-OP6g6ujeGB-re-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="580" as="sourcePoint" />
             <mxPoint x="630" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-81" value="非身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-78" target="k_FtLC-OP6g6ujeGB-re-73">
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-81" value="非白名单" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-78" target="k_FtLC-OP6g6ujeGB-re-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="580" as="sourcePoint" />
             <mxPoint x="630" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-83" value="213" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="440" y="540" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-84" value="二要素通过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-83" target="k_FtLC-OP6g6ujeGB-re-77">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="480" as="sourcePoint" />
-            <mxPoint x="630" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-86" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="520" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-88" value="214" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="540" y="545" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-90" value="二要素不过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-88" target="k_FtLC-OP6g6ujeGB-re-77">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="480" as="sourcePoint" />
-            <mxPoint x="630" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-91" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="540" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k_FtLC-OP6g6ujeGB-re-92" value="pic4die" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="455" width="40" height="20" as="geometry" />
+          <mxGeometry x="450" y="455" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-93" value="322" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="150" y="830" width="40" height="40" as="geometry" />
@@ -382,10 +358,10 @@
           <mxGeometry x="45" y="1030" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-109" value="121" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="690" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="790" y="495" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-110" value="122" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="800" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="1060" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-111" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-109" target="k_FtLC-OP6g6ujeGB-re-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -400,16 +376,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-113" value="pic4dieandconfirm" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="515" width="120" height="30" as="geometry" />
+          <mxGeometry x="680" y="515" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-117" value="123" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="720" y="575" width="40" height="40" as="geometry" />
+          <mxGeometry x="830" y="580" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-118" value="124" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="830" y="575" width="40" height="40" as="geometry" />
+          <mxGeometry x="1090" y="575" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-119" value="124" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="910" y="575" width="40" height="40" as="geometry" />
+          <mxGeometry x="1170" y="575" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-120" value="三要素过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-117" target="k_FtLC-OP6g6ujeGB-re-110">
           <mxGeometry x="-0.3792" width="50" height="50" relative="1" as="geometry">
@@ -420,283 +396,283 @@
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-121" value="三要素不过" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-118" target="k_FtLC-OP6g6ujeGB-re-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="890" as="sourcePoint" />
-            <mxPoint x="640" y="840" as="targetPoint" />
+            <mxPoint x="850" y="890" as="sourcePoint" />
+            <mxPoint x="900" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-122" value="三要素未查得" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-119" target="k_FtLC-OP6g6ujeGB-re-110">
           <mxGeometry x="-0.517" y="-6" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="890" as="sourcePoint" />
-            <mxPoint x="640" y="840" as="targetPoint" />
+            <mxPoint x="850" y="890" as="sourcePoint" />
+            <mxPoint x="900" y="840" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-123" value="codecheck4dieandconfirm" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="605" width="160" height="30" as="geometry" />
+          <mxGeometry x="680" y="580" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-124" value="125" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="760" y="650" width="40" height="40" as="geometry" />
+          <mxGeometry x="1010" y="650" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-125" value="126" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="880" y="650" width="40" height="40" as="geometry" />
+          <mxGeometry x="1140" y="650" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-126" value="二要素不过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-124" target="k_FtLC-OP6g6ujeGB-re-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="790" as="sourcePoint" />
-            <mxPoint x="640" y="740" as="targetPoint" />
+            <mxPoint x="1040" y="650" as="sourcePoint" />
+            <mxPoint x="900" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-127" value="二要素过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-125" target="k_FtLC-OP6g6ujeGB-re-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="790" as="sourcePoint" />
-            <mxPoint x="640" y="740" as="targetPoint" />
+            <mxPoint x="850" y="790" as="sourcePoint" />
+            <mxPoint x="900" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-128" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="655" width="40" height="30" as="geometry" />
+          <mxGeometry x="970" y="645" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-129" value="refuse&amp;nbsp;&lt;br&gt;2-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="650" width="40" height="30" as="geometry" />
+          <mxGeometry x="1100" y="650" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-130" value="328" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="790" y="320" width="40" height="40" as="geometry" />
+          <mxGeometry x="1050" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-131" value="329" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="330" width="40" height="40" as="geometry" />
+          <mxGeometry x="1430" y="330" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-132" value="投保人=被保人" style="endArrow=none;html=1;entryX=0.025;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-130" target="k_FtLC-OP6g6ujeGB-re-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="510" as="sourcePoint" />
-            <mxPoint x="760" y="460" as="targetPoint" />
+            <mxPoint x="970" y="510" as="sourcePoint" />
+            <mxPoint x="1020" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-133" value="投保人！=被保人" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-131" target="k_FtLC-OP6g6ujeGB-re-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="844.1421356237306" y="315.8578643762694" as="sourcePoint" />
-            <mxPoint x="911" y="288" as="targetPoint" />
+            <mxPoint x="1104.1421356237306" y="315.8578643762694" as="sourcePoint" />
+            <mxPoint x="1171" y="288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-134" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="280" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-136" value="321" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="390" width="40" height="40" as="geometry" />
+          <mxGeometry x="1340" y="390" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-137" value="335" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="1600" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-138" value="成年" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-136" target="k_FtLC-OP6g6ujeGB-re-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="834.1421356237306" y="335.8578643762694" as="sourcePoint" />
-            <mxPoint x="911" y="288" as="targetPoint" />
+            <mxPoint x="1094.1421356237306" y="335.8578643762694" as="sourcePoint" />
+            <mxPoint x="1171" y="288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-139" value="未成年" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-137" target="k_FtLC-OP6g6ujeGB-re-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1025.8578643762694" y="335.8578643762694" as="sourcePoint" />
-            <mxPoint x="944.1421356237306" y="294.1421356237306" as="targetPoint" />
+            <mxPoint x="1285.8578643762694" y="335.8578643762694" as="sourcePoint" />
+            <mxPoint x="1204.1421356237306" y="294.1421356237306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-156" value="322" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="1260" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-157" value="323" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="1390" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-158" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-156" target="k_FtLC-OP6g6ujeGB-re-136">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1385" y="435.86" as="sourcePoint" />
-            <mxPoint x="960.8578643762689" y="430.0021356237311" as="targetPoint" />
+            <mxPoint x="1645" y="435.86" as="sourcePoint" />
+            <mxPoint x="1220.857864376269" y="430.0021356237311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-159" value="身份证" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-157" target="k_FtLC-OP6g6ujeGB-re-136">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1385" y="335.86" as="sourcePoint" />
-            <mxPoint x="1000" y="430" as="targetPoint" />
+            <mxPoint x="1645" y="335.86" as="sourcePoint" />
+            <mxPoint x="1260" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-160" value="pic4dieandconfirm" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="935" y="515" width="120" height="30" as="geometry" />
+          <mxGeometry x="1195" y="515" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-161" value="324" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="580" width="40" height="40" as="geometry" />
+          <mxGeometry x="1300" y="580" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-162" value="341" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="580" width="40" height="40" as="geometry" />
+          <mxGeometry x="1480" y="580" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-163" value="三要素未通过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-161" target="k_FtLC-OP6g6ujeGB-re-157">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1075" y="535.86" as="sourcePoint" />
-            <mxPoint x="1125" y="485.86" as="targetPoint" />
+            <mxPoint x="1335" y="535.86" as="sourcePoint" />
+            <mxPoint x="1385" y="485.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-164" value="三要素通过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-162" target="k_FtLC-OP6g6ujeGB-re-157">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1075" y="535.86" as="sourcePoint" />
-            <mxPoint x="1125" y="485.86" as="targetPoint" />
+            <mxPoint x="1335" y="535.86" as="sourcePoint" />
+            <mxPoint x="1385" y="485.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-165" value="codecheck4dieandconfirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="620" width="150" height="20" as="geometry" />
+          <mxGeometry x="1425" y="620" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-166" value="326" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="980" y="645.86" width="40" height="40" as="geometry" />
+          <mxGeometry x="1240" y="645.86" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-167" value="325" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="670" width="40" height="40" as="geometry" />
+          <mxGeometry x="1380" y="670" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-168" value="二要素通过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-166" target="k_FtLC-OP6g6ujeGB-re-161">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1075" y="535.86" as="sourcePoint" />
-            <mxPoint x="1125" y="485.86" as="targetPoint" />
+            <mxPoint x="1335" y="535.86" as="sourcePoint" />
+            <mxPoint x="1385" y="485.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-169" value="二要素不通过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-167" target="k_FtLC-OP6g6ujeGB-re-161">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1075" y="535.86" as="sourcePoint" />
-            <mxPoint x="1125" y="485.86" as="targetPoint" />
+            <mxPoint x="1335" y="535.86" as="sourcePoint" />
+            <mxPoint x="1385" y="485.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-170" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="645" width="40" height="30" as="geometry" />
+          <mxGeometry x="1410" y="645" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-171" value="refuse&amp;nbsp;&lt;br&gt;2-2" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="680" width="40" height="30" as="geometry" />
+          <mxGeometry x="1240" y="680" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-173" value="336" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="475" width="40" height="40" as="geometry" />
+          <mxGeometry x="1550" y="475" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-174" value="337" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="475" width="40" height="40" as="geometry" />
+          <mxGeometry x="1680" y="475" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-176" value="在白名单" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-173" target="k_FtLC-OP6g6ujeGB-re-137">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="510" as="sourcePoint" />
-            <mxPoint x="1180" y="460" as="targetPoint" />
+            <mxPoint x="1390" y="510" as="sourcePoint" />
+            <mxPoint x="1440" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-177" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="490" width="50" height="20" as="geometry" />
+          <mxGeometry x="1505" y="490" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-178" value="不在白名单" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-174" target="k_FtLC-OP6g6ujeGB-re-137">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="510" as="sourcePoint" />
-            <mxPoint x="1180" y="460" as="targetPoint" />
+            <mxPoint x="1390" y="510" as="sourcePoint" />
+            <mxPoint x="1440" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-180" value="338" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="540" width="40" height="40" as="geometry" />
+          <mxGeometry x="1610" y="540" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-181" value="339" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="545" width="40" height="40" as="geometry" />
+          <mxGeometry x="1780" y="545" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-182" value="保障时间小于7天" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-180" target="k_FtLC-OP6g6ujeGB-re-174">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="510" as="sourcePoint" />
-            <mxPoint x="1180" y="460" as="targetPoint" />
+            <mxPoint x="1390" y="510" as="sourcePoint" />
+            <mxPoint x="1440" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-183" value="保障大于等于7" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-181" target="k_FtLC-OP6g6ujeGB-re-174">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="510" as="sourcePoint" />
-            <mxPoint x="1180" y="460" as="targetPoint" />
+            <mxPoint x="1390" y="510" as="sourcePoint" />
+            <mxPoint x="1440" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-184" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="535" width="50" height="20" as="geometry" />
+          <mxGeometry x="1560" y="535" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-185" value="340" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="615" width="40" height="40" as="geometry" />
+          <mxGeometry x="1710" y="615" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-186" value="330" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="615" width="40" height="40" as="geometry" />
+          <mxGeometry x="1860" y="615" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-187" value="保费小于200" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-185" target="k_FtLC-OP6g6ujeGB-re-181">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1260" y="680" as="sourcePoint" />
-            <mxPoint x="1310" y="630" as="targetPoint" />
+            <mxPoint x="1520" y="680" as="sourcePoint" />
+            <mxPoint x="1570" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-188" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="605" width="50" height="20" as="geometry" />
+          <mxGeometry x="1670" y="605" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-189" value="保费大于等于200" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-186" target="k_FtLC-OP6g6ujeGB-re-181">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1260" y="680" as="sourcePoint" />
-            <mxPoint x="1310" y="630" as="targetPoint" />
+            <mxPoint x="1520" y="680" as="sourcePoint" />
+            <mxPoint x="1570" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-191" value="332" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="680" width="40" height="40" as="geometry" />
+          <mxGeometry x="1780" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-192" value="331" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="680" width="40" height="40" as="geometry" />
+          <mxGeometry x="1920" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-193" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-191" target="k_FtLC-OP6g6ujeGB-re-186">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1550" y="560" as="sourcePoint" />
-            <mxPoint x="1600" y="510" as="targetPoint" />
+            <mxPoint x="1810" y="560" as="sourcePoint" />
+            <mxPoint x="1860" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-194" value="身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-192" target="k_FtLC-OP6g6ujeGB-re-186">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1550" y="560" as="sourcePoint" />
-            <mxPoint x="1600" y="510" as="targetPoint" />
+            <mxPoint x="1810" y="560" as="sourcePoint" />
+            <mxPoint x="1860" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-195" value="pic4die" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="665" width="60" height="30" as="geometry" />
+          <mxGeometry x="1750" y="665" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-196" value="333" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="750" width="40" height="40" as="geometry" />
+          <mxGeometry x="1830" y="750" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-197" value="342" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="760" width="40" height="40" as="geometry" />
+          <mxGeometry x="1980" y="760" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-198" value="二要素过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-196" target="k_FtLC-OP6g6ujeGB-re-192">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1400" y="580" as="sourcePoint" />
-            <mxPoint x="1450" y="530" as="targetPoint" />
+            <mxPoint x="1660" y="580" as="sourcePoint" />
+            <mxPoint x="1710" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-199" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1525" y="760" width="50" height="20" as="geometry" />
+          <mxGeometry x="1785" y="760" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-200" value="二要素不过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-197" target="k_FtLC-OP6g6ujeGB-re-192">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1400" y="580" as="sourcePoint" />
-            <mxPoint x="1450" y="530" as="targetPoint" />
+            <mxPoint x="1660" y="580" as="sourcePoint" />
+            <mxPoint x="1710" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-201" value="334" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="840" width="40" height="40" as="geometry" />
+          <mxGeometry x="1890" y="840" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-202" value="343" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="840" width="40" height="40" as="geometry" />
+          <mxGeometry x="2050" y="840" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-203" value="支持其他证件类型" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-201" target="k_FtLC-OP6g6ujeGB-re-197">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1400" y="780" as="sourcePoint" />
-            <mxPoint x="1450" y="730" as="targetPoint" />
+            <mxPoint x="1660" y="780" as="sourcePoint" />
+            <mxPoint x="1710" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-204" value="仅支持身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-202" target="k_FtLC-OP6g6ujeGB-re-197">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1400" y="780" as="sourcePoint" />
-            <mxPoint x="1450" y="730" as="targetPoint" />
+            <mxPoint x="1660" y="780" as="sourcePoint" />
+            <mxPoint x="1710" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-205" value="refuse&amp;nbsp;&lt;br&gt;1-2" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="840" width="40" height="30" as="geometry" />
+          <mxGeometry x="1850" y="840" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-206" value="refuse&amp;nbsp;&lt;br&gt;1-3" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="840" width="40" height="30" as="geometry" />
+          <mxGeometry x="2000" y="840" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-207" value="107" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="2420" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-208" value="108" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="2640" y="295" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-210" value="证件号和姓名在白名单" style="endArrow=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-207" target="62893188c0fa7362-3">
           <mxGeometry x="-0.1066" y="5" width="50" height="50" relative="1" as="geometry">
@@ -706,7 +682,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-211" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="290" width="50" height="20" as="geometry" />
+          <mxGeometry x="2380" y="290" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-212" value="证件号+姓名不在白名单" style="endArrow=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-208" target="62893188c0fa7362-3">
           <mxGeometry x="-0.122" y="-13" width="50" height="50" relative="1" as="geometry">
@@ -716,232 +692,590 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-213" value="109" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="405" width="40" height="40" as="geometry" />
+          <mxGeometry x="2530" y="430" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-214" value="110" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3160" y="405" width="40" height="40" as="geometry" />
+          <mxGeometry x="2750" y="430" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-215" value="保障时间小于7天" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-213" target="k_FtLC-OP6g6ujeGB-re-208">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2830" y="460" as="sourcePoint" />
-            <mxPoint x="2880" y="410" as="targetPoint" />
+            <mxPoint x="2630" y="465" as="sourcePoint" />
+            <mxPoint x="2680" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-216" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2910" y="390" width="50" height="20" as="geometry" />
+          <mxGeometry x="2500" y="415" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-217" value="保障时间大于等于7天" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-214" target="k_FtLC-OP6g6ujeGB-re-208">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2830" y="460" as="sourcePoint" />
-            <mxPoint x="2880" y="410" as="targetPoint" />
+            <mxPoint x="2630" y="465" as="sourcePoint" />
+            <mxPoint x="2680" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-218" value="111" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="475" width="40" height="40" as="geometry" />
+          <mxGeometry x="2650" y="500" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-219" value="127" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3230" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="2820" y="505" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-220" value="保费小于200" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-218" target="k_FtLC-OP6g6ujeGB-re-214">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2840" y="460" as="sourcePoint" />
-            <mxPoint x="2890" y="410" as="targetPoint" />
+            <mxPoint x="2430" y="485" as="sourcePoint" />
+            <mxPoint x="2480" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-221" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="3030" y="460" width="50" height="20" as="geometry" />
+          <mxGeometry x="2620" y="485" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-222" value="保费大于等于200" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-219" target="k_FtLC-OP6g6ujeGB-re-214">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2870" y="460" as="sourcePoint" />
-            <mxPoint x="2890" y="410" as="targetPoint" />
+            <mxPoint x="2460" y="485" as="sourcePoint" />
+            <mxPoint x="2480" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-223" value="128" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2850" y="605" width="40" height="40" as="geometry" />
+          <mxGeometry x="2440" y="630" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-224" value="215" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3000" y="605.86" width="40" height="40" as="geometry" />
+          <mxGeometry x="2590" y="630.86" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-225" value="223" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3150" y="605" width="40" height="40" as="geometry" />
+          <mxGeometry x="2740" y="630" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-226" value="231" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3450" y="610" width="40" height="40" as="geometry" />
+          <mxGeometry x="3040" y="635" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-227" value="不上策略" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-223" target="k_FtLC-OP6g6ujeGB-re-219">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2850" y="580" as="sourcePoint" />
-            <mxPoint x="2900" y="530" as="targetPoint" />
+            <mxPoint x="2440" y="605" as="sourcePoint" />
+            <mxPoint x="2490" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-228" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2820" y="585" width="50" height="20" as="geometry" />
+          <mxGeometry x="2410" y="610" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-229" value="二要素" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-224" target="k_FtLC-OP6g6ujeGB-re-219">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3160" y="760" as="sourcePoint" />
-            <mxPoint x="3210" y="710" as="targetPoint" />
+            <mxPoint x="2750" y="785" as="sourcePoint" />
+            <mxPoint x="2800" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-231" value="手机号三要素" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-225">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3160" y="760" as="sourcePoint" />
-            <mxPoint x="3250" y="520" as="targetPoint" />
+            <mxPoint x="2750" y="785" as="sourcePoint" />
+            <mxPoint x="2840" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-232" value="二要素+活体" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-226" target="k_FtLC-OP6g6ujeGB-re-219">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3160" y="760" as="sourcePoint" />
-            <mxPoint x="3210" y="710" as="targetPoint" />
+            <mxPoint x="2750" y="785" as="sourcePoint" />
+            <mxPoint x="2800" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-233" value="216" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="675" width="40" height="40" as="geometry" />
+          <mxGeometry x="2350" y="700" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-234" value="217" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2970" y="695" width="40" height="40" as="geometry" />
+          <mxGeometry x="2560" y="720" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-235" value="投保人=被保人" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-233" target="k_FtLC-OP6g6ujeGB-re-224">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2800" y="480" as="sourcePoint" />
-            <mxPoint x="2850" y="430" as="targetPoint" />
+            <mxPoint x="2390" y="505" as="sourcePoint" />
+            <mxPoint x="2440" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-236" value="投保人！=被保人" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-234" target="k_FtLC-OP6g6ujeGB-re-224">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2800" y="480" as="sourcePoint" />
-            <mxPoint x="2850" y="430" as="targetPoint" />
+            <mxPoint x="2390" y="505" as="sourcePoint" />
+            <mxPoint x="2440" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-237" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="670" width="50" height="20" as="geometry" />
+          <mxGeometry x="2300" y="695" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-238" value="129" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2850" y="820" width="40" height="40" as="geometry" />
+          <mxGeometry x="2440" y="845" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-239" value="218" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="820" width="40" height="40" as="geometry" />
+          <mxGeometry x="2600" y="845" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-240" value="成年" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-238" target="k_FtLC-OP6g6ujeGB-re-234">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2780" y="580" as="sourcePoint" />
-            <mxPoint x="2830" y="530" as="targetPoint" />
+            <mxPoint x="2370" y="605" as="sourcePoint" />
+            <mxPoint x="2420" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-241" value="未成年" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-239" target="k_FtLC-OP6g6ujeGB-re-234">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2780" y="580" as="sourcePoint" />
-            <mxPoint x="2830" y="530" as="targetPoint" />
+            <mxPoint x="2370" y="605" as="sourcePoint" />
+            <mxPoint x="2420" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-242" value="131" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2825" y="890" width="40" height="40" as="geometry" />
+          <mxGeometry x="2415" y="915" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-243" value="130" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="890" width="40" height="40" as="geometry" />
+          <mxGeometry x="2290" y="915" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-244" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-243" target="k_FtLC-OP6g6ujeGB-re-238">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2690" y="780" as="sourcePoint" />
-            <mxPoint x="2740" y="730" as="targetPoint" />
+            <mxPoint x="2280" y="805" as="sourcePoint" />
+            <mxPoint x="2330" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-245" value="身份证" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-242" target="k_FtLC-OP6g6ujeGB-re-238">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2690" y="780" as="sourcePoint" />
-            <mxPoint x="2740" y="730" as="targetPoint" />
+            <mxPoint x="2280" y="805" as="sourcePoint" />
+            <mxPoint x="2330" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-246" value="pic4undie" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2660" y="870" width="80" height="30" as="geometry" />
+          <mxGeometry x="2450" y="890" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-247" value="132" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2730" y="980" width="40" height="40" as="geometry" />
+          <mxGeometry x="2320" y="1005" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-248" value="133" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2870" y="980" width="40" height="40" as="geometry" />
+          <mxGeometry x="2460" y="1005" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-249" value="二要素不过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-247" target="k_FtLC-OP6g6ujeGB-re-242">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2690" y="780" as="sourcePoint" />
-            <mxPoint x="2740" y="730" as="targetPoint" />
+            <mxPoint x="2280" y="805" as="sourcePoint" />
+            <mxPoint x="2330" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-250" value="二要素通过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-248" target="k_FtLC-OP6g6ujeGB-re-242">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2774.1421356237306" y="995.8578643762694" as="sourcePoint" />
-            <mxPoint x="2840.8578643762694" y="934.1421356237306" as="targetPoint" />
+            <mxPoint x="2364.1421356237306" y="1020.8578643762694" as="sourcePoint" />
+            <mxPoint x="2430.8578643762694" y="959.1421356237306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-251" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="950" width="40" height="30" as="geometry" />
+          <mxGeometry x="2290" y="975" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-252" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2825" y="970" width="50" height="20" as="geometry" />
+          <mxGeometry x="2415" y="995" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-253" value="220" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2960" y="880" width="40" height="40" as="geometry" />
+          <mxGeometry x="2550" y="905" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-254" value="219" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3100" y="890" width="40" height="40" as="geometry" />
+          <mxGeometry x="2690" y="915" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-255" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-253" target="k_FtLC-OP6g6ujeGB-re-239">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2720" y="780" as="sourcePoint" />
-            <mxPoint x="2770" y="730" as="targetPoint" />
+            <mxPoint x="2310" y="805" as="sourcePoint" />
+            <mxPoint x="2360" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-256" value="身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-254" target="k_FtLC-OP6g6ujeGB-re-239">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2720" y="780" as="sourcePoint" />
-            <mxPoint x="2770" y="730" as="targetPoint" />
+            <mxPoint x="2310" y="805" as="sourcePoint" />
+            <mxPoint x="2360" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-257" value="pic4undie" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="860" width="80" height="30" as="geometry" />
+          <mxGeometry x="2510" y="885" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-258" value="221" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3030" y="960" width="40" height="40" as="geometry" />
+          <mxGeometry x="2620" y="985" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-259" value="222" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3170" y="960" width="40" height="40" as="geometry" />
+          <mxGeometry x="2760" y="985" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-260" value="二要素过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-258" target="k_FtLC-OP6g6ujeGB-re-254">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2720" y="780" as="sourcePoint" />
-            <mxPoint x="2770" y="730" as="targetPoint" />
+            <mxPoint x="2310" y="805" as="sourcePoint" />
+            <mxPoint x="2360" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-261" value="二要素不过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-259" target="k_FtLC-OP6g6ujeGB-re-254">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2720" y="780" as="sourcePoint" />
-            <mxPoint x="2770" y="730" as="targetPoint" />
+            <mxPoint x="2310" y="805" as="sourcePoint" />
+            <mxPoint x="2360" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-262" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="970" width="50" height="20" as="geometry" />
+          <mxGeometry x="2570" y="995" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-264" value="224" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3100" y="685.86" width="40" height="40" as="geometry" />
+          <mxGeometry x="2690" y="710.86" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-265" value="225" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="3220" y="685" width="40" height="40" as="geometry" />
+          <mxGeometry x="2810" y="710" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-266" value="本人" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-264" target="k_FtLC-OP6g6ujeGB-re-225">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2910" y="760" as="sourcePoint" />
-            <mxPoint x="2960" y="710" as="targetPoint" />
+            <mxPoint x="2500" y="785" as="sourcePoint" />
+            <mxPoint x="2550" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-267" value="非本人" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-265" target="k_FtLC-OP6g6ujeGB-re-225">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3115.8578643762694" y="701.7178643762695" as="sourcePoint" />
-            <mxPoint x="3165.8578643762694" y="649.1421356237306" as="targetPoint" />
+            <mxPoint x="2705.8578643762694" y="726.7178643762695" as="sourcePoint" />
+            <mxPoint x="2755.8578643762694" y="674.1421356237306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k_FtLC-OP6g6ujeGB-re-268" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="675" width="50" height="20" as="geometry" />
+          <mxGeometry x="2650" y="700" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-269" value="134" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="775" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-270" value="226" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="785" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-271" value="成年" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-269" target="k_FtLC-OP6g6ujeGB-re-265">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2770" y="775" as="sourcePoint" />
+            <mxPoint x="2550" y="935" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-272" value="未成年" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-270" target="k_FtLC-OP6g6ujeGB-re-265">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2780" y="785" as="sourcePoint" />
+            <mxPoint x="2825.8578643762694" y="754.1421356237306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-273" value="135" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="845" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-274" value="136" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="845" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-275" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-273" target="k_FtLC-OP6g6ujeGB-re-269">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2765.8578643762694" y="790.8578643762694" as="sourcePoint" />
+            <mxPoint x="2825.8578643762694" y="754.1421356237306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-276" value="pic4undie" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="835" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-278" value="身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-274" target="k_FtLC-OP6g6ujeGB-re-269">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2735.8578643762694" y="860.8578643762694" as="sourcePoint" />
+            <mxPoint x="2765.8578643762694" y="819.1421356237306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-279" value="137" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="915" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-280" value="138" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2890" y="925" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-281" value="138" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="915" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-282" value="三要素通过" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-279" target="k_FtLC-OP6g6ujeGB-re-274">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2765.8578643762694" y="790.8578643762694" as="sourcePoint" />
+            <mxPoint x="2825.8578643762694" y="754.1421356237306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-283" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2755" y="915" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-284" value="三要素不过" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-280" target="k_FtLC-OP6g6ujeGB-re-274">
+          <mxGeometry x="-0.4138" y="-1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2830" y="925" as="sourcePoint" />
+            <mxPoint x="2850" y="895" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-286" value="未查的数据" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-281" target="k_FtLC-OP6g6ujeGB-re-274">
+          <mxGeometry x="-0.4138" y="-1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2920" y="925" as="sourcePoint" />
+            <mxPoint x="2850" y="895" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-287" value="139" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="985" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-288" value="140" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="985" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-289" value="二要素通过" style="endArrow=none;html=1;entryX=-0.025;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-287" target="k_FtLC-OP6g6ujeGB-re-280">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2820" y="1005" as="sourcePoint" />
+            <mxPoint x="2870" y="955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-290" value="二要素不通过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-288" target="k_FtLC-OP6g6ujeGB-re-280">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2875.8578643762694" y="1000.8578643762694" as="sourcePoint" />
+            <mxPoint x="2899" y="965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-291" value="refuse&amp;nbsp;&lt;br&gt;2-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="1025" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-292" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="1025" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-294" value="228" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="835" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-295" value="227" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="835" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-296" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-294" target="k_FtLC-OP6g6ujeGB-re-270">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2820" y="805" as="sourcePoint" />
+            <mxPoint x="2870" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-297" value="pic4undie" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2890" y="825" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-298" value="身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-295" target="k_FtLC-OP6g6ujeGB-re-270">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2984.1421356237306" y="850.8578643762694" as="sourcePoint" />
+            <mxPoint x="3025.8578643762694" y="829.1421356237306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-299" value="229" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="905" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-300" value="230" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3190" y="905" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-301" value="二要素通过" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-299" target="k_FtLC-OP6g6ujeGB-re-295">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2984.1421356237306" y="850.8578643762694" as="sourcePoint" />
+            <mxPoint x="3025.8578643762694" y="829.1421356237306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-302" value="二要素不通过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-300" target="k_FtLC-OP6g6ujeGB-re-295">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2820" y="805" as="sourcePoint" />
+            <mxPoint x="2870" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-303" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="895" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-304" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="905" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-305" value="232" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="705" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-306" value="233" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="705" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-307" value="本人" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-305" target="k_FtLC-OP6g6ujeGB-re-226">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2820" y="805" as="sourcePoint" />
+            <mxPoint x="2870" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-308" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="690.86" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-309" value="非本人" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-306" target="k_FtLC-OP6g6ujeGB-re-226">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2820" y="805" as="sourcePoint" />
+            <mxPoint x="3072" y="677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-311" value="234" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="795" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-312" value="141" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="805" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-313" value="未成年" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-311" target="k_FtLC-OP6g6ujeGB-re-306">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3040" y="785" as="sourcePoint" />
+            <mxPoint x="3090" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-314" value="成年人" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-312" target="k_FtLC-OP6g6ujeGB-re-306">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3040" y="785" as="sourcePoint" />
+            <mxPoint x="3090" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-315" value="142" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="905" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-316" value="143" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="905" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-317" value="非身份证" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-315" target="k_FtLC-OP6g6ujeGB-re-312">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3040" y="885" as="sourcePoint" />
+            <mxPoint x="3090" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-318" value="身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-316" target="k_FtLC-OP6g6ujeGB-re-312">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3040" y="885" as="sourcePoint" />
+            <mxPoint x="3090" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-319" value="pic4undie" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="935" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-320" value="145" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="985" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-321" value="144" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="985" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-322" value="二要素通过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-321" target="k_FtLC-OP6g6ujeGB-re-316">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3220" y="985" as="sourcePoint" />
+            <mxPoint x="3270" y="935" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-323" value="二要素不通过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-320" target="k_FtLC-OP6g6ujeGB-re-316">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3220" y="985" as="sourcePoint" />
+            <mxPoint x="3270" y="935" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-324" value="livecheck4undie" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3215" y="990" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-325" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="995" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-326" value="236" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3460" y="865" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-327" value="235" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3710" y="865" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-328" value="非身份证" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-326" target="k_FtLC-OP6g6ujeGB-re-311">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3430" y="1005" as="sourcePoint" />
+            <mxPoint x="3588" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-329" value="pic4undie" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3410" y="855" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-330" value="身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-327" target="k_FtLC-OP6g6ujeGB-re-311">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3430" y="1005" as="sourcePoint" />
+            <mxPoint x="3480" y="955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-331" value="237" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="985" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-332" value="238" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3810" y="985" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-333" value="二要素不通过" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-331" target="k_FtLC-OP6g6ujeGB-re-327">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3430" y="1005" as="sourcePoint" />
+            <mxPoint x="3480" y="955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-334" value="二要素通过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-332" target="k_FtLC-OP6g6ujeGB-re-327">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3430" y="1005" as="sourcePoint" />
+            <mxPoint x="3480" y="955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-335" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="960" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-337" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="980" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-338" value="312" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="570" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-339" value="313" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="575" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-340" value="保障时间少于7天" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-338" target="k_FtLC-OP6g6ujeGB-re-78">
+          <mxGeometry x="0.1151" y="-2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="660" as="sourcePoint" />
+            <mxPoint x="480" y="610" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-341" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="560" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-342" value="保障时间大于等于7天" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-339" target="k_FtLC-OP6g6ujeGB-re-78">
+          <mxGeometry x="-0.3936" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="660" as="sourcePoint" />
+            <mxPoint x="480" y="610" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-343" value="314" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="655" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-344" value="210" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="650" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-345" value="保费小于200" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-343" target="k_FtLC-OP6g6ujeGB-re-339">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="860" as="sourcePoint" />
+            <mxPoint x="480" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-346" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-349" value="保费大于200" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-344" target="k_FtLC-OP6g6ujeGB-re-339">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="860" as="sourcePoint" />
+            <mxPoint x="480" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-350" value="211" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="725.86" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-351" value="212" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="725.86" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-352" value="身份证" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-350" target="k_FtLC-OP6g6ujeGB-re-344">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="960" as="sourcePoint" />
+            <mxPoint x="677" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-353" value="非身份证" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-351" target="k_FtLC-OP6g6ujeGB-re-344">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="960" as="sourcePoint" />
+            <mxPoint x="480" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-354" value="pic4die" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="715" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-355" value="213" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="795" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-356" value="214" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="795" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-357" value="二要素通过" style="endArrow=none;html=1;entryX=0.025;entryY=0.678;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-355" target="k_FtLC-OP6g6ujeGB-re-350">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="960" as="sourcePoint" />
+            <mxPoint x="480" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-358" value="二要素不通过" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_FtLC-OP6g6ujeGB-re-356" target="k_FtLC-OP6g6ujeGB-re-350">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="960" as="sourcePoint" />
+            <mxPoint x="480" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-359" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="780" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_FtLC-OP6g6ujeGB-re-360" value="refuse&amp;nbsp;&lt;br&gt;1-1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="790" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
