@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T08:55:28.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="d3fT-wXkk4uS1ePZRAGt" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T04:35:15.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Zwbqan7vZwHA7DZ-ERQv" version="13.8.3" type="github">
   <diagram id="_WEu0Acl-BrLXd2TerBP" name="第 1 页">
-    <mxGraphModel dx="1606" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
         <mxCell id="zHI-Yp2XdMW2kIywh8IT-54" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;livecheck4dieandconfirm:&amp;nbsp;&amp;nbsp;身故活体检测且确认身故责任&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;div style=&quot;resize: none; outline: 0px; font-size: 14px; color: rgb(50, 50, 50); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;livecheck4undie: 非身故活体检测&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;div style=&quot;resize: none; outline: 0px; font-size: 14px; color: rgb(50, 50, 50); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;codecheck4dieandconfirm: 身故短信验证码验证且确认身故责任&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;div style=&quot;resize: none; outline: 0px; font-size: 14px; color: rgb(50, 50, 50); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;pic4undie: 非身故补充图片&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;div style=&quot;resize: none; outline: 0px; font-size: 14px; color: rgb(50, 50, 50); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;pic4die: 身故补充图片&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); display: inline; float: none;&quot;&gt;pic4dieandconfirm:身故补充图片且身故确认&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-240" width="420" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="zHI-Yp2XdMW2kIywh8IT-55" value="208" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="zHI-Yp2XdMW2kIywh8IT-55" value="208" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="330" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zHI-Yp2XdMW2kIywh8IT-56" value="投保人=被保人" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zHI-Yp2XdMW2kIywh8IT-55" target="zHI-Yp2XdMW2kIywh8IT-12">
@@ -270,7 +270,7 @@
             <mxPoint x="630" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHI-Yp2XdMW2kIywh8IT-64" value="310" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="zHI-Yp2XdMW2kIywh8IT-64" value="310" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="470" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zHI-Yp2XdMW2kIywh8IT-65" value="311" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -453,7 +453,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zHI-Yp2XdMW2kIywh8IT-107" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="280" width="50" height="20" as="geometry" />
+          <mxGeometry x="1010" y="300" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zHI-Yp2XdMW2kIywh8IT-108" value="321" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1340" y="390" width="40" height="40" as="geometry" />
@@ -1188,7 +1188,7 @@
         <mxCell id="zHI-Yp2XdMW2kIywh8IT-281" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="3760" y="980" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zHI-Yp2XdMW2kIywh8IT-282" value="312" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="zHI-Yp2XdMW2kIywh8IT-282" value="312" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="570" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zHI-Yp2XdMW2kIywh8IT-283" value="313" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
