@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T06:57:47.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="aTRybuWhvhV43gBBgFfj" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T07:01:13.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Ehj82GTfmgaqsf1bM0xf" version="13.9.7" type="github">
   <diagram id="pJWF78jM8IHRNxogfDZn" name="第 1 页">
     <mxGraphModel dx="1081" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
         <mxCell id="HPsp6Ffg5o5-EEXkCSEY-30" value="512" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="515" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-31" value="非身份真" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPsp6Ffg5o5-EEXkCSEY-23" target="HPsp6Ffg5o5-EEXkCSEY-30">
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-31" value="非身份证" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPsp6Ffg5o5-EEXkCSEY-23" target="HPsp6Ffg5o5-EEXkCSEY-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="440" as="sourcePoint" />
             <mxPoint x="270" y="390" as="targetPoint" />
@@ -139,6 +139,24 @@
         </mxCell>
         <mxCell id="HPsp6Ffg5o5-EEXkCSEY-39" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="430" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-40" value="517" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="585" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-41" value="516" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="585" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-42" value="少儿" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPsp6Ffg5o5-EEXkCSEY-29" target="HPsp6Ffg5o5-EEXkCSEY-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-43" value="成人" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HPsp6Ffg5o5-EEXkCSEY-29" target="HPsp6Ffg5o5-EEXkCSEY-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
