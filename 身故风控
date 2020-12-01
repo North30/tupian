@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T07:55:25.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ZUSKgzyAhe-JH1yBvNlL" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T07:56:32.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="XoX-1zuquFFDnGqOjvhW" version="13.9.7" type="github">
   <diagram id="pJWF78jM8IHRNxogfDZn" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,6 +439,15 @@
         </mxCell>
         <mxCell id="HPsp6Ffg5o5-EEXkCSEY-116" value="refuse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="777" y="855" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-117" value="650" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="880" y="810" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-118" value="查询收入" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPsp6Ffg5o5-EEXkCSEY-107" target="HPsp6Ffg5o5-EEXkCSEY-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
