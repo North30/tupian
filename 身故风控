@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T07:49:00.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Irkj8dV9Y78RBqnfBqxi" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T07:51:15.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="xF4Yy_t4FtX7ZZxNfzTg" version="13.9.7" type="github">
   <diagram id="pJWF78jM8IHRNxogfDZn" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -339,10 +339,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HPsp6Ffg5o5-EEXkCSEY-91" value="642" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="510" y="820" width="30" height="30" as="geometry" />
+          <mxGeometry x="530" y="830" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HPsp6Ffg5o5-EEXkCSEY-92" value="641" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="384" y="810" width="30" height="30" as="geometry" />
+          <mxGeometry x="400" y="830" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HPsp6Ffg5o5-EEXkCSEY-93" value="反欺诈通过" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPsp6Ffg5o5-EEXkCSEY-86" target="HPsp6Ffg5o5-EEXkCSEY-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -351,16 +351,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HPsp6Ffg5o5-EEXkCSEY-94" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="800" width="50" height="20" as="geometry" />
+          <mxGeometry x="350" y="840" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HPsp6Ffg5o5-EEXkCSEY-95" value="refuse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="815" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="830" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HPsp6Ffg5o5-EEXkCSEY-96" value="未通过反欺诈" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPsp6Ffg5o5-EEXkCSEY-86" target="HPsp6Ffg5o5-EEXkCSEY-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="195.60660171779818" y="805.6066017177982" as="sourcePoint" />
             <mxPoint x="235" y="860" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-98" value="648" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="830" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-100" value="查询收入" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPsp6Ffg5o5-EEXkCSEY-87" target="HPsp6Ffg5o5-EEXkCSEY-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-101" value="646" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="924.39" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-102" value="645" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="924.39" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-103" value="身故/收入[0,15]" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HPsp6Ffg5o5-EEXkCSEY-102" source="HPsp6Ffg5o5-EEXkCSEY-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604.3933982822018" y="869.9966017177982" as="sourcePoint" />
+            <mxPoint x="730" y="754.39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-104" value="身故/收入&amp;gt;15" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HPsp6Ffg5o5-EEXkCSEY-101" source="HPsp6Ffg5o5-EEXkCSEY-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="625.6066017177982" y="869.9966017177982" as="sourcePoint" />
+            <mxPoint x="730" y="754.39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPsp6Ffg5o5-EEXkCSEY-105" value="refuse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="924.39" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
