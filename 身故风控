@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T09:29:20.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="F3PRn1kCkyCYf0ui9SZb" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T06:32:42.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="7rjp5g3SleqHKzgNYfJL" version="13.9.7" type="github">
   <diagram id="pJWF78jM8IHRNxogfDZn" name="第 1 页">
     <mxGraphModel dx="2249" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -553,7 +553,7 @@
         <mxCell id="20s2bo1xTVZHzjRFNf6X-10" value="accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="880" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="20s2bo1xTVZHzjRFNf6X-11" value="身故保额是被保人全平台，已有的在保障中的总保额。所以需要注意：&lt;br&gt;1、此次核保保额未到风险保额，但是加上历史保障中的超过&lt;br&gt;2、如果现有保额是白名单中的产品，算不算身故保额&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="20s2bo1xTVZHzjRFNf6X-11" value="身故保额是被保人全平台，已有的在保障中的总保额。所以需要注意：&lt;br&gt;1、此次核保保额未到风险保额，但是加上历史保障中的超过&lt;br&gt;2、白名单中的产品，不算身故保额" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="100" width="390" height="50" as="geometry" />
         </mxCell>
       </root>
